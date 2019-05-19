@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vision_zero/static/css/main.34de6062.chunk.css",
+    "main.js": "/vision_zero/static/js/main.29e22b1e.chunk.js",
+    "main.js.map": "/vision_zero/static/js/main.29e22b1e.chunk.js.map",
+    "runtime~main.js": "/vision_zero/static/js/runtime~main.e525feba.js",
+    "runtime~main.js.map": "/vision_zero/static/js/runtime~main.e525feba.js.map",
+    "static/js/2.83e7268c.chunk.js": "/vision_zero/static/js/2.83e7268c.chunk.js",
+    "static/js/2.83e7268c.chunk.js.map": "/vision_zero/static/js/2.83e7268c.chunk.js.map",
+    "index.html": "/vision_zero/index.html",
+    "precache-manifest.c13f2e0c6987cff1f7dbab9a4964da24.js": "/vision_zero/precache-manifest.c13f2e0c6987cff1f7dbab9a4964da24.js",
+    "service-worker.js": "/vision_zero/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/vision_zero/static/css/main.34de6062.chunk.css.map",
+    "static/media/placeholderHoustonMap.png": "/vision_zero/static/media/placeholderHoustonMap.a66425a0.png",
+    "static/media/upturnedCar.jpeg": "/vision_zero/static/media/upturnedCar.f8421277.jpeg"
+  }
+}
