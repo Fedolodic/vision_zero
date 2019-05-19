@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vision_zero/precache-manifest.c13f2e0c6987cff1f7dbab9a4964da24.js"
+  "/vision_zero/precache-manifest.86dda0d3cded0925b85016b4fb9587c1.js"
 );
 
 self.addEventListener('message', (event) => {
